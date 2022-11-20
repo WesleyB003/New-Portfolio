@@ -9,9 +9,9 @@ function Header() {
       <Typed 
         strings={[
             '',
-            'A front-end developer',
-            'A back-end developer',
-            'A software engineer',
+            'A Front-End Developer',
+            'A Back-End Developer',
+            'A Software Engineer',
             '', '']}
             typeSpeed={40}
             backSpeed={50}
