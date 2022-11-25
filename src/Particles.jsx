@@ -13,7 +13,7 @@ export default class Particles extends React.Component {
  
     let num = 200;
     let size = 1;
-    let color = "blue";
+    let color = "rgb(50,150,300)";
     let min_speed = 0.1;
     let max_speed = 0.5;
     let line_distance = 80;
