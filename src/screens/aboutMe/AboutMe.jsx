@@ -10,7 +10,8 @@ function AboutMe() {
         </div>
         <div className='about__text'>
             <h1>ABOUT ME</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit id quos amet saepe neque esse dolorum, molestiae ipsa labore, minima aliquid dolores odio minus quasi ea alias obcaecati sint officiis.</p>
+            <p>Enthusiastic web developer eager to contribute to team success through hard work, attention to detail and
+excellent organizational skills. As a student in the UNC coding boot camp I've developed numerous applications using both front-end and back-end features. Motivated to learn, grow and excel in software development.</p>
         </div>
     </div>
   )
