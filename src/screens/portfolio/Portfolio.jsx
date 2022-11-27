@@ -66,7 +66,7 @@ function Portfolio() {
       <h1>PORTFOLIO</h1>
       <p>
         This is my Github page
-        <a href="https://github.com/Juan321654" target="_blank" rel="noreferrer"> https://github.com/Juan321654</a>
+        <a href="https://github.com/WesleyB003" target="_blank" rel="noreferrer"> https://github.com/WesleyB003</a>
       </p>
       <Container fluid="lg" style={{ padding: '2rem 0' }}>
         <Row>
